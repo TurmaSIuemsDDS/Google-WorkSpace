@@ -43,7 +43,7 @@ Os arquivos estão organizados da seguinte maneira:
 9. Manual de Instrução Google Meet.pdf
 10. Manual de Instrução Google Sheets.pdf
 11. Manual de Instrução Google Slides.pdf
-12. Manual de Instruções - Google Drive.pdf
+12. Manual de Instruções Google Drive.pdf
 13. Manual de instrução Google Account & Search.pdf
 14. Manual de instrução Google Calendar.pdf
 15. Manual de instrução Google Docs.pdf
